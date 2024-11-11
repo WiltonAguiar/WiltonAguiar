@@ -21,9 +21,8 @@
 <br>
 
 
-<div>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WiltonAguiar&theme=radical&layout=compact"/>
+
 </div>
 
 ### Tecnologias dominadas:
