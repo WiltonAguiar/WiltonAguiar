@@ -16,7 +16,7 @@
 <div>
   <div>
      <img src="https://github-readme-stats.vercel.app/api/pin/?username=WiltonAguiar&repo=Geek-Cat&theme=radical"/>
-  <p>(Projeto do Curso Alura)</p>
+  
           
 <br>
 ### Tecnologias dominadas:
