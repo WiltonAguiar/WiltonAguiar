@@ -6,6 +6,13 @@
  <li> Nos tempos livres, gosto de jogos competitivos e de viajar 🎮🛫
   
 <hr>
+
+<div>
+  <img src="https://github-readme-stats.vercel.app/api?username=HermesonxDev&show_icons=true&theme=radical"/> 
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HermesonxDev&theme=radical&layout=compact"/>
+</div>
+
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=WiltonAguiar&show_icons=true&theme=radical"/> 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WiltonAguiar&theme=radical&layout=compact"/>
