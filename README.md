@@ -15,7 +15,7 @@
 <div>
  
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=WiltonAguiar&repo=Geek-Cat&theme=radical"/>
- 
+ <p>App de Game/Quiz focado em acessibilidade</p>  
 </div>
 
 <br>
