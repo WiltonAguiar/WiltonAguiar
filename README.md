@@ -2,8 +2,8 @@
 <h1>Wilton Aguiar</h1>
  
  <li> Desenvolvedor
-   <li> Trabalhando como Analista de sistemas pela Berp sistemas (2023 - Atualmente)
- <li> Cursando Engenharia da Computação (2021-2026)
+   <li> Trabalhando como Analista de sistemas na empresa Berp sistemas (2023 - Atualmente)
+ <li> Cursando Engenharia da Computação, atualmente no 6º semestre (2021-2026)
 <hr>
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=WiltonAguiar&show_icons=true&theme=radical"/> 
