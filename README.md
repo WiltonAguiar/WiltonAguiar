@@ -13,13 +13,14 @@
 
 <h2><b>Principais Projetos:</b></h2>
 <div>
- 
+ <div>
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=WiltonAguiar&repo=Geek-Cat&theme=radical"/>
- <p>(App de Game e Quiz focado em acessibilidade)</p>  
+ <p> App App de Game e Quiz focado em acessibilidade</p>
+  
 </div>
 
 <br>
-
+</div>
 ### Tecnologias dominadas:
 <div>
   <li> <strong>Frontend:</strong>
