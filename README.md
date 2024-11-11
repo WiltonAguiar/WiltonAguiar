@@ -11,11 +11,12 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WiltonAguiar&theme=radical&layout=compact"/>
 </div>
 
+
 <h2><b>Principais Projetos:</b></h2>
- <div>
+<div>
+  <div>
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=WiltonAguiar&repo=Geek-Cat&theme=radical"/>
- <p> App  de Game e Quiz focado em acessibilidade</p>
-</div>
+  <p>(Grafico simplificado de Criptomoedas em tempo real.)</p>          
 <br>
 ### Tecnologias dominadas:
 <div>
