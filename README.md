@@ -13,7 +13,9 @@
 
 <h2><b>Principais Projetos:</b></h2>
 <div>
-  
+ 
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Daviqrozz&repo=Django-crud1&theme=radical"/>
+   <img src="https://github.com/WiltonAguiar/Geek-Cat"/>
 </div>
 
 <br>
