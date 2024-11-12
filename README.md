@@ -29,7 +29,7 @@
 <div>
   <li> <strong>Frontend:</strong>
   <img >
-  <img align="center" alt="Luis-React" height="30" width="40" src="https://www.figma.com/design/OZo3SX97It7PXeQBOK0Wlz/Program-%26-Language-Programming-%26-Operation-Systems-icons-(Community)?node-id=7-84&t=NgqeKtcD2fq7nHLb-4">
+  <img align="center" alt="Luis-React" height="30" width="40" src="https://github.com/jmnote/z-icons/blob/5dca329190fa53931f4cdab984acc668e149d3e5/svg/java.svg#L1">
   <img align="center" alt="Luis-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg">
   <img align="center" alt="Luis-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Luis-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
