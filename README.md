@@ -1,8 +1,7 @@
 <h1>Wilton Aguiar</h1>
  
- <li> Desenvolvedor, Atualmente focado em Kotlin, Java, Firebase, SQL server e mySQL workbench
-   <li> Trabalhando como Analista de sistemas na empresa Berp sistemas (2023 - Atualmente)
- <li> Cursando Engenharia da Computação, na Universidade de Fortaleza(UNIFOR) atualmente no 6º semestre (2021-2026)
+ <li> Desenvolvedor, Atualmente focado em Laravel, Tailwind css, 
+   <li> Trabalhando como Analista de sistemas na empresa Berp sistemas (2023 - Ago 2025)
  <li> Nos tempos livres, gosto de jogos competitivos e de viajar 🎮🛫
   
 <hr>
